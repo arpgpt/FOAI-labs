@@ -1,2 +1,1 @@
-# FOAI-labs
-![image](images/cognitiveclass.png "Cognitiveclass") 
+#FOAI Labs
