@@ -35,10 +35,10 @@ Import Primary Modules. The first thing we'll do is import two key data analysis
 ```python
 import numpy as np  # useful for many scientific computing in Python
 import pandas as pd # primary data structure library
-```
 
-```python
-from __future__ import print_function # this line adds compatibility to python 2```
+
+from __future__ import print_function # this line adds compatibility to python 2
+```
 
 Let us download and import our primary Canadian Immigration dataset using *pandas* ```read_excel()``` method. But before we can do that, we need to download a module on which *pandas* requires to read in excel files. This module is **xlrd**.
 
